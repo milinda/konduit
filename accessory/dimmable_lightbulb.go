@@ -2,7 +2,7 @@ package accessory
 
 import (
 	"github.com/brutella/hc/accessory"
-	"github.com/milinda/sphkbridge/service"
+	"github.com/milinda/konduit/service"
 )
 
 type DimmableLightbulb struct {
